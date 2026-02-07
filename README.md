@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil do Lucas-ferreira99 😁
 <div>
-   <a href="https://github.com/Lucas-ferreira99">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/username=Lucas-ferreira99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-ferreira99&layout=compact&langs_count=6&theme=tokyonight"/> </a>
+   <a href="https://github.com/Lucas-ferreira99" target="_blank">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-ferreira99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas-ferreira99"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-ferreira99&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas no GitHub de Lucas-ferreira99"/>
+   </a>
 </div>
     
 <div style="display: inline_block"><br>
